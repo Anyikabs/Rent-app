@@ -6,7 +6,7 @@
 }
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #fff;
+  background-color: #0f0f0f;
 }
 .container {
   max-width: 80%;
@@ -19,7 +19,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: #000;
+  color: #f1eeee;
   text-transform: capitalize;
 }
 ul {
@@ -42,14 +42,23 @@ button i {
   width: 60%;
   margin: auto;
 }
+.heading2 h1 {
+  color: 
+  #faf7f7;
+  font-weight: 600;
+  text-transform: capitalize;
+  font-size: 35px;
+}
 .heading h1 {
-  color: #2d3954;
+  color: 
+  #eee8e8;
   font-weight: 600;
   text-transform: capitalize;
   font-size: 35px;
 }
 .heading p {
-  color: #72809d;
+  color: #676767
+  ;
 }
 textarea,
 input {
@@ -69,10 +78,11 @@ input {
   grid-gap: 30px;
 }
 label {
-  color: #2d3954;
+  color: #ececec;
   font-size: 14px;
 }
 .mtop {
+  background-color: ;
   margin-top: 50px;
 }
 h4 {
@@ -80,7 +90,7 @@ h4 {
   margin-top: 10px;
 }
 .shadow {
-  box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%);
+  box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.18);
 }
 .padding {
   padding: 80px 0;
@@ -109,7 +119,7 @@ img {
   border-radius: 50px;
 }
 .btn4 {
-  background-color: #000;
+  background-color: #d6d4d4;
   color: #fff;
 }
 .btn5 {
@@ -140,7 +150,7 @@ img {
   left: 0;
   width: 100%;
   height: 40vh;
-  background: rgba(17, 40, 72, 0.629);
+  background: rgba(7, 46, 33, 0.629);
   z-index: -1;
 }
 .back .container {
@@ -158,7 +168,7 @@ img {
   .grid4,
   .grid3,
   .grid5 {
-    grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(2, 1fr);
   }
   .heading {
     width: 100%;
