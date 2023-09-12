@@ -11,7 +11,8 @@
   padding-right: 30px;
   margin-bottom: 20px;
   line-height: 30px;
-}
+  }
+
 @media screen and (max-width: 768px) {
   .about .container {
     flex-direction: column;
@@ -23,3 +24,59 @@
     margin-top: 50px;
   }
 }
+.Aboutstory{
+  color: white;
+}
+
+.aboutDivider1 {
+color:rgb(39, 39, 39);
+width: 75%; 
+margin: auto;
+}
+#visionTopPad {
+color:rgb(39, 39, 39);
+margin-bottom:  50px;
+}
+h2{
+  color: white;
+  margin-left: -25%;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+#vision1 {
+  width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  height: 50vh;
+  background-image: url("pexels-evgeny-tchebotarev-2187605.png");
+  background-color: rgba(0, 0, 0, 100); /* Adjust the opacity as needed */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.visionLogo{
+  padding-right: 20px;
+}
+
+.smallimage{
+  
+  width: 100px; /* Full width */
+  height: 100px; /* Full height */
+  margin-left: 25%;
+  margin-bottom: 20px;
+  margin-top: -20px;
+}
+
+#offerbalance{
+  margin-top: -20px;
+}
+#overlay{
+  margin-top: 100px
+}
+
+.Heading2x{
+  
+}
+
